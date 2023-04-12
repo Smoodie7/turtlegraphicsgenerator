@@ -1,4 +1,4 @@
-# turtlegraphicsgenerator
+# turtle Graph generator
 A circle graphics generator using turtle (python)
 Gui avalaible (tkinter)
 
